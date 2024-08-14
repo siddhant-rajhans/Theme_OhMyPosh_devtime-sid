@@ -29,15 +29,17 @@ Getting this theme up and running is easier than debugging your first Hello Worl
     ```bash
     git clone https://github.com/siddhant-rajhans/Theme_OhMyPosh_devtime-sid.git
     ```
+3. **Theme Time!**: After completely doing step 1 & 2. To apply this theme to your terminal prompt, paste the downloaded `Theme_OhMyPosh_devtime-sid` file in the `.poshthemes`file (where ohmyposh themes are downloaded).
 
-3. **Theme Time!**: Apply the theme to your terminal prompt with this command (replace `/path/to/Theme_OhMyPosh_devtime-sid.json` with the actual location where you cloned the theme file):
+4. In your terminal edit the command below before running(replace `/path/to/Theme_OhMyPosh_devtime-sid.json` with the actual location where you cloned the theme file):
 
     ```bash
-    oh-my-posh init bash --config /path/to/Theme_OhMyPosh_devtime-sid.json > ~/.bashrc
-    source ~/.bashrc
+    oh-my-posh init fish --config $HOME/.poshthemes/devtime.sid.omp.json | source
     ```
 
-    And if you’re not a bash fan, just swap `bash` for your terminal of choice. Easy peasy!
+    And then researt the shell.
+    
+    If you’re not a bash fan or want to do it in some other shell, just swap `bash` for your shell of choice. Easy peasy!
 
 ## 🎨 Feeling a Little Picky?
 
