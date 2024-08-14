@@ -2,6 +2,8 @@
 
 Welcome to the DevTime-Sid! This repository isn't just about themes; it's about transforming your terminal into the ultimate developer's playground. Say goodbye to boring prompts and hello to the **DevTime-Sid**—the custom OhMyPosh theme that brings a touch of luxury to your Linux (yes, luxury on Linux, it’s a thing now).
 
+![Peek Preview](./images/peek.png)
+
 ## 🚀 What Are You Getting?
 
 Here’s what makes this theme a must-have for every terminal ninja:
@@ -11,6 +13,8 @@ Here’s what makes this theme a must-have for every terminal ninja:
 - **⏰ Clock (Yes, You Need It!):** Never lose track of time again (or at least know when that next coffee break is absolutely necessary). The current time is right there, clear and concise.
 - **🗺️ Path Pathfinder:** Navigate like a pro! See exactly where you’re at in your file system with the current working directory displayed in a simple, no-nonsense way.
 - **👁️ The Watcher:** Get a visual cue on whether your last command was a triumph or a tragic fail. Avoid those head-scratching moments of confusion—this theme’s got your back!
+
+![Tree Structure](./images/tree.png)
 
 ## 🛠️ Installation
 
