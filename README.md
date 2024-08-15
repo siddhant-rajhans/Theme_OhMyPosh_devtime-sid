@@ -22,7 +22,7 @@ Getting this theme up and running is easier than debugging your first Hello Worl
 
 ### Here's the drill:
 
-1. **Get Oh My Posh!**: If you haven’t already, install OhMyPosh using the [official installation guide](https://ohmyposh.dev/docs/installation/). You’re just a few commands away from terminal greatness!
+1. **Get Oh My Posh!**: If you haven’t already, install OhMyPosh using the [official installation guide](https://ohmyposh.dev/docs/installation/windows). You’re just a few commands away from terminal greatness!
 
 2. **Get My Theme:** Clone this repository and grab your copy of the DevTime-Sid theme:
 
